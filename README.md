@@ -60,6 +60,14 @@ VoiceGold → VOID-SPINE (Interpretation)
 VOID-SPINE → WM-Core_801 (World Model)
 WM-Core_801 → Deck / Research / API
 
+[Field Layer] → Raw Voices  
+[G-Roots] → Emotion Decode  
+[VoiceGold] → Spine  
+[VOID-SPINE] → Custodian Filter  
+[Custodian] → Insights  
+[VOIDSPIRE Engine] → Deck / Intelligence Pack  
+[Output Layer] → VC / R&D / Lab
+
 markdown
 คัดลอกโค้ด
 
