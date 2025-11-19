@@ -1,38 +1,67 @@
-# VOIDSPIRE™ Outreach Pack v1  
-Reflex801 — Ground-Truth AI for Human Voices
+# VOIDSPIRE™ Outreach Pack — Global AI Pioneer Edition
 
-## 1. Mission
-Build the first **human-grounded AI** ecosystem from real SME voices (VoiceGold → G-Roots → VOID-SPINE).  
-We aim to connect global researchers, AI pioneers, and ecosystem partners to bring Reflex801 to the world.
+Reflex801 → Field-Origin Intelligence → VoiceGold
 
-## 2. Why This Matters
-- AI is missing **ground-truth emotional signals**  
-- Current datasets are synthetic or scraped  
-- Reflex801 collects real human voices → PDPA compliant → Custodian governed  
-- Creates the missing “hidden layer” for world-models
+1. Objective
 
-## 3. What We Offer to Partners
-- Field-audio samples (anonymized)  
-- Emotional-signature YAML  
-- PDPA-cleaned datasets  
-- Field-intelligence deck  
-- Real human behavioral signals for model research  
+สร้าง “จุดสนทนาแรก” กับผู้นำ AI โลก
+เพื่อให้เห็นภาพว่า Reflex801 คือ field-first dataset lineage ที่ไม่มีใครทำ
+และ VOIDSPIRE คือระบบเก็บสัญญาณมนุษย์จริง (Hidden-Signal Engine)
 
-## 4. Who We Are Reaching Out To
-- Yann LeCun  
-- Jeremy Howard  
-- Fei-Fei Li  
-- Andrej Karpathy  
-- Demis Hassabis  
-- Jad Tarifi (Integral AI)  
+2. Target 8 People
 
-## 5. Standard Outreach Message (X / LinkedIn)
-Hi @NAME — Philip from Thailand.
+Andrej Karpathy
 
-Building Reflex801: field-first AI from real SME voices → ground-truth datasets (VoiceGold).  
-If human-grounded AI matters to you, I can share my field notes anytime.  
+Yann LeCun
+
+Ilya Sutskever
+
+Fei-Fei Li
+
+Jeff Dean
+
+Demis Hassabis
+
+Jeremy Howard
+
+Jad Tarifi
+
+3. Core Message (Template)
+
+ใช้ยิง X / LinkedIn ได้ทันที
+
+Hi @{{name}} — Philip from Thailand.
+
+Building Reflex801: field-first AI from real SME voices → ground-truth signals (VoiceGold).
+If human-grounded AI resonates with you, I can share my early field notes anytime.
 — Philip
+{{timestamp}} BKK. Thailand
 
-## 6. Contact
-Philip Mendoza (Reflex801 / VoiceGold)  
-BKK, Thailand  
+4. Reflex801 Elevator Pitch (สำหรับข้อความยาว)
+Reflex801 is a field-origin intelligence system capturing micro-signals from real human voices 
+(SME vendors, markets, rural communities). 
+No synthetic data. No internet bias. 
+Pure ground-truth emotional signatures (VoiceGold) → interpreted by VOIDSPIRE™ 
+→ transformed into world-model signals for AI labs.
+
+5. Attachments
+
+VOIDSPIRE_SystemMap_v1.png
+
+README summary
+
+Field-origin methodology
+
+Consent/PDPA protocol (Origin Protocol)
+
+12-page explainer PDF (optional)
+
+6. Delivery Strategy (X-first)
+
+ยิงข้อความสั้น → Tag 1 คนต่อโพสต์
+
+แนบภาพ SYSTEM_MAP_v1.png
+
+เปิดโปรไฟล์ GitHub → โชว์ว่าโครงสร้างระบบเสร็จแล้ว
+
+รอ 24–48 ชม. ก่อนยิงคนถัดไป (ให้ perception ตกผลึก)
